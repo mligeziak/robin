@@ -1,4 +1,4 @@
-package com.example.robin;
+package pl.mligeza.robin;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
