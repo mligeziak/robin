@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
+import '../widgets/layout.dart';
+import '../widgets/box.dart';
 
 class App extends StatelessWidget {
   Widget build(context) {
     return MaterialApp(
       title: 'Home',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Home'),
-        ),
-        body: Center(
-          child: Text('Home'),
+      home: Layout(
+        title: 'Dashboard',
+        child: Box(
+          child: Text('Content'),
         ),
       ),
     );
