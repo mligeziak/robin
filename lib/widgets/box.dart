@@ -9,8 +9,8 @@ class Box extends StatelessWidget {
     return Container(
       alignment: Alignment(-1.0, -1.0),
       child: this.child,
-      height: 400.0,
-      margin: EdgeInsets.only(left: 20.0, right: 20.0),
+      margin: EdgeInsets.only(left: 10.0, right: 10.0, bottom: 20.0),
+      padding: EdgeInsets.all(15.0),
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.all(Radius.circular(12.0)),

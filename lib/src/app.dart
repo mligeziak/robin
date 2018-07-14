@@ -9,9 +9,24 @@ class App extends StatelessWidget {
       theme: ThemeData(primarySwatch: Colors.blue),
       home: Layout(
         title: 'Dashboard',
-        child: Box(
-          child: Text('Content'),
-        ),
+        children: [
+          Box(
+            child: Text(
+                'Content asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdg Content asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg '),
+          ),
+          Box(
+            child: Text(
+                'Content asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdg Content asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg '),
+          ),
+          Box(
+            child: Text(
+                'Content asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdg Content asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg '),
+          ),
+          Box(
+            child: Text(
+                'Content asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdg Content asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg adfg adfgdfg dsfg dsfg sdfg dfg dsfg dsfg sdfg dsfg sdgContent asdsad asfadsf asdg adsg adfg '),
+          ),
+        ],
       ),
     );
   }
